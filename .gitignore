@@ -1,0 +1,9 @@
+tmp
+.project
+build
+.DS_store
+
+.idea
+build.log
+.settings
+*.iml

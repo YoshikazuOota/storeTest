@@ -1,0 +1,5 @@
+https://github.com/shinout/jsrel
+
+■メモ
+jsrel.jsを libに配置しようとしたけど、SortedList.jsの参照パスでエラーでて解決できなかった。
+よって、Topディレクトリに配置

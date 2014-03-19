@@ -9,5 +9,9 @@ Android/iphoneで動作します
 - presentation.pptx
 - result.xlsx
 
-注: jsrelの最新版は https://github.com/shinout/jsrel
+## taffyDB
+http://www.isgoodstuff.com/2012/02/11/titanium-appcelerator-taffydb-flatfile-mod-local-jsondb/
+
+## jsrel
+jsrelの最新版は https://github.com/shinout/jsrel
 また、jsrelを使用するためには SortedList.jsも必要になります https://github.com/shinout/SortedList
